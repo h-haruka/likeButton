@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/likeButton/static/css/main.ae931768.css",
+    "main.js": "/likeButton/static/js/main.2c933972.js",
+    "static/js/453.023ae982.chunk.js": "/likeButton/static/js/453.023ae982.chunk.js",
+    "index.html": "/likeButton/index.html",
+    "main.ae931768.css.map": "/likeButton/static/css/main.ae931768.css.map",
+    "main.2c933972.js.map": "/likeButton/static/js/main.2c933972.js.map",
+    "453.023ae982.chunk.js.map": "/likeButton/static/js/453.023ae982.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae931768.css",
+    "static/js/main.2c933972.js"
+  ]
+}
